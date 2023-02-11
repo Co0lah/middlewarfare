@@ -1,0 +1,11 @@
+fr\doranco\flash\metier\ejb\EmployeEjbStateful.class
+fr\doranco\flash\metier\ejb\EtudiantEjbStateful.class
+fr\doranco\flash\metier\ejb\EmployeEjbStateless.class
+fr\doranco\flash\metier\model\Devise.class
+fr\doranco\flash\presentation\EmployeServlet.class
+fr\doranco\flash\presentation\EtudiantServlet.class
+fr\doranco\flash\metier\EtudiantJavaBean.class
+fr\doranco\flash\metier\model\Employe.class
+fr\doranco\flash\metier\model\Etudiant.class
+fr\doranco\flash\presentation\DeviseServlet.class
+fr\doranco\flash\metier\ejb\EtudiantEjbStateless.class
